@@ -2,21 +2,21 @@
 
 ![image](https://user-images.githubusercontent.com/117923992/220805921-0523ce72-125f-43c9-b911-320b2e6d8416.png)
 
-UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
+      UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
-FUNDAMENTO DE CIRCUITOS ELECTRICOS
+      FUNDAMENTO DE CIRCUITOS ELECTRICOS
 
-Nombre del Estudiante: Victor Hugo Toapanta Tipantuña
+      Nombre del Estudiante: Victor Hugo Toapanta Tipantuña
 
-NRC: 10063-10066
+      NRC: 10063-10066
 
-Nombre del Docente: Ing. Darwin Omar Alulema Flores
+      Nombre del Docente: Ing. Darwin Omar Alulema Flores
 
-Fecha de Presentación: 23 de febrero de 2023
+      Fecha de Presentación: 23 de febrero de 2023
 
 TAREA N° 8
 
-OBJETIVOS:
+      OBJETIVOS:
 
 OBJETIVOS GENERALES:
 
@@ -38,9 +38,18 @@ OBJETIVOS ESPECIFICOS:
 
 • Describir la relación entre corriente y voltaje en un circuito RC en serie, utilizando conceptos de carga y descarga del capacitor.
 
-MARCO TEORICO:
+      MARCO TEORICO:
 
-APLICACION Y RESOLUCION DE EJERCISICIOS O PROBLEMAS:
+CAPITULO 15
+
+![image](https://user-images.githubusercontent.com/117923992/220994881-5fee4495-7e85-4f22-a43a-2274b3513703.png)
+
+CAPITULO 16
+
+![image](https://user-images.githubusercontent.com/117923992/220994959-984c9caf-c742-4c0b-85c9-70d73c47ba2e.png)
+
+
+      APLICACION Y RESOLUCION DE EJERCISICIOS O PROBLEMAS:
 
 CAPITULO 15:
 
@@ -642,12 +651,12 @@ Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/117923992/220805563-975956b7-61db-4229-bc39-15cfbd63d88a.png)
 
-VIDEO:
+      VIDEO:
 
 LINK:
 
 
-CONCLUSIONES:
+      CONCLUSIONES:
 
 • Al comprender el funcionamiento y la aplicación de los circuitos RC y RL, se adquiere un conocimiento fundamental para el análisis de sistemas eléctricos y electrónicos.
 
@@ -665,6 +674,6 @@ CONCLUSIONES:
 
 • La comprensión de la relación entre corriente y voltaje en un circuito RC en serie resulta fundamental para el diseño y la implementación de sistemas de carga y descarga de capacitores.
 
-BIBLIOGRAFIA:
+       BIBLIOGRAFIA:
 
 • Floyd, TL (sf). Principios de circuitos eléctricos (8.a ed.). http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
